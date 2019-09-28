@@ -11,6 +11,6 @@
         android:layout_width="337dp"
         android:layout_height="wrap_content"
         android:text="My New Git!"
-        android:textSize="50dp" />
+        android:textSize="50sp" />
 
 </LinearLayout>
